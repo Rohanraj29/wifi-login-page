@@ -1,0 +1,276 @@
+body{
+    width: 1500px;
+}
+html{
+    height: 5740px;
+}
+.header{
+    width: 1500px;
+    background-color: #ffd6d6;
+    height: 800px;
+    background-color: #ffd6d6;
+}
+a {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    bottom: 30px;
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    margin-right: 160px;
+}
+
+h1 {
+    font-size: 50px;
+    line-height: 60px;
+    position: relative;
+    top: 250px;
+    left: 35px;
+    padding-left: 50px;
+}
+p {
+    position: relative;
+    top: 250px;
+    font-size: 18px;
+    font-family: sans-serif;
+    left: 35px;
+    padding-left: 50px;
+}
+img.one {
+    height: 400px;
+    position: relative;
+    left: 700px;
+    bottom: 40px;
+}
+.button button{
+    height: 50px;
+    width: 200px;
+    background-color: orangered;
+    color: white;
+    border-radius: 22px;
+    position: relative;
+    bottom: 100px;
+    left: 70px;
+    cursor: pointer;
+}
+.image {
+    position: relative;
+    top: 40px;
+    padding-left: 100px;
+    margin: 50px;
+}
+img.two {
+    position: relative;
+    left: 100px;
+}
+img.three {
+    position: relative;
+    left: 250px;
+    top: 30px;
+}
+.products img{
+    height: 400px;
+    padding: 30px;
+    position: relative;
+    top: 100px;
+}
+h2{
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+.main {
+    position: relative;
+    top: 150px;
+    height: 1200px;
+}
+.main img{
+    height: 400px;
+}
+.main img {
+    height: 400px;
+    padding: 30px;
+    margin: 4px;
+}
+.main h2{
+    position: relative;
+    top: 20px;
+}
+.middle{
+    background-color: pink;
+    height: 800px;
+}
+.middle img{
+    height: 400px;
+    padding: 280px;
+}
+.middle p{
+        font-size: 20px;
+        font-family: sans-serif;
+        width: 500px;
+        position: relative;
+        left: 700px;
+        top: -700px;
+        color: #555;
+    }
+.middle h2{
+    position: relative;
+    top: -300px;
+    left: -180px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.middle button{
+    cursor: pointer;
+        position: relative;
+        top: -650px;
+        left: 800px;
+        height: 40px;
+        width: 150px;
+        background-color: #ff523b;
+        color: white;
+        border-radius: 22px;
+}
+.box1 {
+    height: 300px;
+    width: 300px;
+    background-color: whitesmoke;
+    position: relative;
+    top: 40px;
+    left: 250px;
+}
+.box1 h4{
+    line-height: 25px;
+    padding-top: 40px;
+    padding-left: 15px;
+}
+.box1 img{
+    border-radius: 50%;
+        height: 100px;
+        position: relative;
+        left: 60px;
+        top: 25px;
+}
+.box1 h5{
+    text-align: center;
+    position: relative;
+    top: 15px;
+    right: 30px;
+}
+.box2{
+    height: 300px;
+    width: 300px;
+    background-color: whitesmoke;
+    position: relative;
+    left: 600px;
+    top: 3880px;
+}
+.box2 h4{
+    line-height: 25px;
+    padding-top: 40px;
+    padding-left: 15px;
+}
+.box2 img{
+    border-radius: 50%;
+    height: 100px;
+    position: relative;
+    left: 60px;
+    top: 25px;
+}
+.box2 h5{
+    text-align: center;
+    position: relative;
+    top: 15px;
+    right: 30px;
+}
+.box3{
+    height: 300px;
+    width: 300px;
+    background-color: whitesmoke;
+    position: relative;
+    left: 1000px;
+    top: 3550px;
+}
+.box3 h4{
+    line-height: 25px;
+    padding-top: 40px;
+    padding-left: 15px;
+}
+.box3 img{
+    border-radius: 50%;
+    height: 100px;
+    position: relative;
+    left: 60px;
+
+}
+.box3 h5{
+    text-align: center;
+    position: relative;
+    bottom: 8px;
+    right: 30px;
+}
+.sponsored{
+    position: relative;
+    top: 3700px;
+    padding-left: 350px;
+    cursor: pointer;
+}
+.footer {
+    position: relative;
+    top: 3800px;
+    height: 350px;
+    background-color: black;
+}
+.column1{
+    width: 400px;
+}
+.footer h2{
+    color: white;
+    width: 250px;
+    height: 100px;
+    left: 40px;
+}
+.footer p{
+    color: white;
+    width: 250px;
+    height: 80px;
+    position: relative;
+    top: 25px;
+    left: 8px 
+}
+.footer img{
+    padding-left: 25px;
+    height: 50px;
+}
+.column2 {
+    width: 260px;
+    height: 180px;
+    position: relative;
+    left: 500px;
+    bottom: 200px;
+    padding-top: 50px;
+}
+.column2 p{
+    font-size: 14px;
+    position: relative;
+    left: -40px;
+}
+.column3 {
+    color: white;
+    width: 200px;
+    position: relative;
+    left: 900px;
+    bottom: 400px;
+}
+li {
+    height: 25px;
+    position: relative;
+    right: 15px;
+}
+.column4 {
+    color: white;
+    width: 200px;
+    position: relative;
+    left: 1200px;
+    bottom: 560px;
+}
